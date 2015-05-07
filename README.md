@@ -17,10 +17,12 @@ Also, pretty much any of the [CodeKata](http://codekata.com/) examples or
 
 
 ## Languages
-I know a few, and am learning more. Here's some I'm playing with (or have)
-* Ruby
-* JavaScript
-* Python
-* Elixir
-* Clojure
-* C
+I know a few, and am learning more. Here's some I'm playing with (or have), and my self-estimated competency level (1=written 'hello world', know the basic types/data structures/syntax; 5=could comfortably program in it professionally, but still referencing docs for some of the more obscure functions; 8=a true expert, comfortable talking about the language, how it works underneath the hood, the ecosystem, how popular libraries work, etc; 10=I wrote this language):
+* Ruby (7/10)
+* JavaScript (6/10)
+* Python (3/10)
+* Elixir (1/10)
+* Clojure (0.5/10)
+* Go (0/10)
+* C (0/10)
+* Rust (0/10)

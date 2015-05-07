@@ -6,6 +6,8 @@ their various strengths & weaknesses, and allows me to stretch beyond my comfort
 zone in an attempt to write real [Ruby|JS|Elixir|etc.], rather than just carry
 my usual OO/Ruby style into other languages. Here's the sorts of things I
 [am|will|have] writ[ing|e|ten].
+* A todo app
+* A test framework
 * Tic tac toe
 * A simple web server
 * A sudoku solver

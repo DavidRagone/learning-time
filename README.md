@@ -15,7 +15,7 @@ my usual OO/Ruby style into other languages. Here's the sorts of things I
   set](http://en.wikipedia.org/wiki/Mandelbrot_set)
 
 Also, pretty much any of the [CodeKata](http://codekata.com/) examples or
-[Project Euler](https://projecteuler.net/archives).
+[Project Euler](https://projecteuler.net/archives) examples, or (if I really want to go deep), any of the suggestions [that every cs majors should do](http://matt.might.net/articles/what-cs-majors-should-know/)
 
 
 ## Languages

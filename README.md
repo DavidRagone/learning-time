@@ -28,3 +28,14 @@ I know a few, and am learning more. Here's some I'm playing with (or have), and 
 * Go (0/10)
 * C (0/10)
 * Rust (0/10)
+
+
+## Expertise
+My goal is to be t-shaped: an expert in one area, but broad knowledge of many. I'm not 100% sure which of these areas I will dive deep on, so for now am continuing to go wide (mostly working off of (Google's recommendations)[https://www.google.com/about/careers/students/guide-to-technical-development.html]):
+* Object-oriented programming
+* Functional programming
+* Web development
+* UX Design
+* AI / Machine Learning
+* Building compilers
+* Cryptography

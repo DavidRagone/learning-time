@@ -20,18 +20,19 @@ Also, pretty much any of the [CodeKata](http://codekata.com/) examples or
 
 ## Languages
 I know a few, and am learning more. Here's some I'm playing with (or have), and my self-estimated competency level (1=written 'hello world', know the basic types/data structures/syntax; 5=could comfortably program in it professionally, but still referencing docs for some of the more obscure functions; 8=a true expert, comfortable talking about the language, how it works underneath the hood, the ecosystem, how popular libraries work, etc; 10=I wrote this language):
-* Ruby (7/10)
-* JavaScript (6/10)
-* Python (3/10)
-* Elixir (1/10)
-* Clojure (0.5/10)
+* Ruby (7.5/10)
+* JavaScript (5/10)
+* Python (2/10)
+* Elixir (0/10)
+* Clojure (0/10)
 * Go (0/10)
 * C (0/10)
 * Rust (0/10)
+* Crystal (0/10)
 
 
 ## Expertise
-My goal is to be t-shaped: an expert in one area, but broad knowledge of many. I'm not 100% sure which of these areas I will dive deep on, so for now am continuing to go wide (mostly working off of [Google's recommendations](https://www.google.com/about/careers/students/guide-to-technical-development.html)):
+Over time, I imagine I'll go deep in some areas, but hope to have a great variety of areas in which I have some knowledge and experience. I'm not 100% sure which of these areas I will dive deep on, so for now am continuing to go wide (mostly working off of [Google's recommendations](https://www.google.com/about/careers/students/guide-to-technical-development.html)):
 * Object-oriented programming
 * Functional programming
 * Web development

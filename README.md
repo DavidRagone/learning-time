@@ -36,6 +36,8 @@ I know a few, and am learning more. Here's some I'm playing with (or have), and 
   * React (1/10)
 * Elixir
   * [Phoenix](http://www.phoenixframework.org/) (0/10)
+* Ruby
+  * [EM Midori](https://github.com/heckpsi-lab/em-midori) (0/10)
 
 
 ## Expertise

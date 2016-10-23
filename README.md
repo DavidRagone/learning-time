@@ -30,6 +30,13 @@ I know a few, and am learning more. Here's some I'm playing with (or have), and 
 * Rust (0/10)
 * Crystal (0/10)
 
+## Frameworks / Libraries / Tools
+* JavaScript
+  * [VueJS](http://vuejs.org/) (0/10)
+  * React (1/10)
+* Elixir
+  * [Phoenix](http://www.phoenixframework.org/) (0/10)
+
 
 ## Expertise
 Over time, I imagine I'll go deep in some areas, but hope to have a great variety of areas in which I have some knowledge and experience. I'm not 100% sure which of these areas I will dive deep on, so for now am continuing to go wide (mostly working off of [Google's recommendations](https://www.google.com/about/careers/students/guide-to-technical-development.html)):

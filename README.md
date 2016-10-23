@@ -29,6 +29,7 @@ I know a few, and am learning more. Here's some I'm playing with (or have), and 
 * C (0/10)
 * Rust (0/10)
 * Crystal (0/10)
+* [Elm](http://elm-lang.org/) (0/10)
 
 ## Frameworks / Libraries / Tools
 * JavaScript

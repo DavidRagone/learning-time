@@ -1,0 +1,1 @@
+gem build david_spec.gemspec && gem install david_spec && david_spec

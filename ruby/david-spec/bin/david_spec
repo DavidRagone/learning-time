@@ -1,4 +1,17 @@
 #!/usr/bin/env ruby
 
-require File.expand_path(File.join('..', 'lib', 'david_spec.rb'), File.dirname(__FILE__))
+#files = Dir[File.expand_path("lib/**/*.rb", File.dirname(__FILE__))]
+#files = File.expand_path( File.join('..', 'lib', '**/*.rb'), File.dirname(__FILE__))
 
+#files.each { |file| require file }
+#puts "-------- FILES --------"
+#puts files
+#puts "#{'-'*100}"
+#
+#require files
+
+puts "running with args #{ARGV}"
+require 'david_spec/spec'
+
+DavidSpec::Spec.run
+#`rake david_spec`

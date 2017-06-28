@@ -7,6 +7,7 @@
 * [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
 * [Seemingly infinite long list of links](https://github.com/markerikson/react-redux-links)
+* [React Express](http://www.react.express/quick_start)
 
 ### Readings
 
